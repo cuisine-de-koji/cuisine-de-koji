@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi I'm Koji 👋
+
+<!-- ## 📈 Status -->
+
+![](https://komarev.com/ghpvc/?username=cuisine-de-koji&color=grey)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuisine-de-koji&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuisine-de-koji&theme=vue)
+  
+
 
 <!--
 **cuisine-de-koji/cuisine-de-koji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
